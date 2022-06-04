@@ -1,0 +1,111 @@
+@charset "utf-8";
+
+#wrapper{
+    padding: 0px;
+    width: 1000px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
+}
+#header{
+    background-color: darkgray;
+    text-align: center;
+    padding: 3px;
+    margin: 0px;
+}
+#header p {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+    color: #DBFF6C;
+    text-decoration: underline;
+}
+#footer{
+    background-color:bisque;
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+}
+#footer p {
+    font-family: 'Times New Roman', Times, serif;
+    size: 12px;
+    color: black;
+}
+#page{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: auto;
+    background-color:aliceblue;
+}
+#menu{
+    width: 200px;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+    float: left;
+    display: block;
+    background-color:aliceblue;
+}
+#total_bayar {
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size: 16px;
+	color: #F00;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+li {
+    border-style: groove;
+    border-top-style: none;
+    font-family: impact;
+    font-size: 16px;
+    margin: 0px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 0px;
+}
+#home{
+    width: 750px;
+    margin: 10px;
+    padding: 10px;
+    float: left;
+    background-color:aliceblue;
+}
+.gambar{
+    margin: 10px;
+    padding: 0px;
+    height: 300px;
+    width: 400px;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    width: 100%;
+}
+body{
+    background: linear-gradient(to right, #ffffff, rgb(54, 54, 54));
+    margin: 0px;
+    padding: 0px;
+}
+.clear{
+    clear: both;
+    margin: 0px;
+    padding: 0px;
+}
+.kode{
+    width: 150px;
+}

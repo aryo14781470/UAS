@@ -1,0 +1,77 @@
+@charset "utf-8";
+
+td{
+    border: 1px solid #ccc;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 0px;
+    padding: 5px;
+}
+table{
+    text-align: center;
+    border-collapse: collapse;
+    padding: 0px;
+    width: 100%;
+    margin: 0px;
+}
+th{
+    font-family: Impact;
+    font-size: 12px;
+    font-weight: normal;
+    color: #fff;
+    background-color: #666;
+    text-align: center;
+    margin: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+input[type=submit], input[type=reset]{
+    margin: 0px;
+    padding: 5px;
+    font-family: 'Cosmic Sans MS', cursive;
+    font-size: 16px;
+    color: #ccc;
+    background-color: #990;
+    font-weight: normal;
+    width: 100px;
+}
+button[type=submit]{
+    margin: 0px;
+    padding: 5px;
+    font-family: 'Cosmic Sans MS', cursive;
+    font-size: 16px;
+    color: #ccc;
+    background-color: #990;
+    font-weight: normal;
+    width: 100px;
+}
+.table_footer{
+    background-color: #ccc;
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+}
+#identitas{
+    display: table;
+    width: 196px;
+    float: left;
+    background-color:aliceblue;
+    border-style: groove;
+    padding-bottom: 10px;
+    padding-top: 15px;
+}
+.div_col{
+    text-align: center;
+    font-size: 16px;
+    padding-bottom: 10px;
+    padding-top: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bold;
+}
+.img{
+    border: 3px solid #330066; 
+    height: 125px;
+    margin-left: 25%;
+}
